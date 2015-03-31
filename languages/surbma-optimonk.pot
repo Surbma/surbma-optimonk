@@ -1,0 +1,82 @@
+# Copyright (C) 2015 Surbma - OptiMonk
+# This file is distributed under the same license as the Surbma - OptiMonk package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Surbma - OptiMonk 1.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/surbma-optimonk\n"
+"POT-Creation-Date: 2015-03-31 13:30:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: lib/admin.php:7 pages/settings-page.php:37
+msgid "OptiMonk Settings"
+msgstr ""
+
+#: pages/settings-page.php:18
+msgid "Save Changes"
+msgstr ""
+
+#: pages/settings-page.php:25
+msgid "OptiMonk Help"
+msgstr ""
+
+#: pages/settings-page.php:27
+msgid "https://www.optimonk.com/"
+msgstr ""
+
+#: pages/settings-page.php:27
+msgid "Official OptiMonk Webpage"
+msgstr ""
+
+#: pages/settings-page.php:28
+msgid "http://support.optimonk.com/hc/en-us"
+msgstr ""
+
+#: pages/settings-page.php:28
+msgid "Official OptiMonk Help Page"
+msgstr ""
+
+#: pages/settings-page.php:38
+msgid "OptiMonk document ID"
+msgstr ""
+
+#: pages/settings-page.php:43
+msgid "Warning!"
+msgstr ""
+
+#: pages/settings-page.php:43
+msgid ""
+"You only need to add the document ID! You can find it at the end of your "
+"integration code, in the document line."
+msgstr ""
+
+#: pages/settings-page.php:43
+msgid ""
+"Here is an example script from your OptiMonk admin dashboard page. You can "
+"see the highlighted part, this is the ID, that you need to add here on the "
+"field below."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Surbma - OptiMonk"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://surbma.com/wordpress-plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "OptiMonk for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Surbma"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://surbma.com/"
+msgstr ""

@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Surbma - OptiMonk v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-31 13:38:33+0000\n"
+"Last-Translator: surbma <peter@surbma.hu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: lib/admin.php:7
+#: pages/settings-page.php:37
+#@ surbma-optimonk
+msgid "OptiMonk Settings"
+msgstr "OptiMonk beállítások"
+
+#: pages/settings-page.php:18
+#@ default
+msgid "Save Changes"
+msgstr ""
+
+#: pages/settings-page.php:25
+#@ surbma-optimonk
+msgid "OptiMonk Help"
+msgstr "OptiMonk segítség"
+
+#: pages/settings-page.php:27
+#@ surbma-optimonk
+msgid "https://www.optimonk.com/"
+msgstr "https://www.optimonk.hu/"
+
+#: pages/settings-page.php:27
+#@ surbma-optimonk
+msgid "Official OptiMonk Webpage"
+msgstr "OptiMonk hivatalos weboldala"
+
+#: pages/settings-page.php:28
+#@ surbma-optimonk
+msgid "http://support.optimonk.com/hc/en-us"
+msgstr "https://www.optimonk.hu/help"
+
+#: pages/settings-page.php:28
+#@ surbma-optimonk
+msgid "Official OptiMonk Help Page"
+msgstr "OptiMonk hivatalos támogatói oldala"
+
+#: pages/settings-page.php:38
+#@ surbma-optimonk
+msgid "OptiMonk document ID"
+msgstr "OptiMonk document azonosító"
+
+#: pages/settings-page.php:43
+#@ surbma-optimonk
+msgid "Warning!"
+msgstr "Figyelem!"
+
+#: pages/settings-page.php:43
+#@ surbma-optimonk
+msgid "You only need to add the document ID! You can find it at the end of your integration code, in the document line."
+msgstr "Csak a document azonosítót kell megadni! Az azonosító az OptiMonk integrációs kód végén, a document sorban van."
+
+#: pages/settings-page.php:43
+#@ surbma-optimonk
+msgid "Here is an example script from your OptiMonk admin dashboard page. You can see the highlighted part, this is the ID, that you need to add here on the field below."
+msgstr "Itt van egy példa script kód az OptiMonk admin felületéről. A kiemelt részben található azonosítót kell megadni a lenti mezőben."
+
+#. translators: plugin header field 'Name'
+#: surbma-optimonk.php:0
+#@ surbma-optimonk
+msgid "Surbma - OptiMonk"
+msgstr "Surbma - OptiMonk"
+
+#. translators: plugin header field 'PluginURI'
+#: surbma-optimonk.php:0
+#@ surbma-optimonk
+msgid "http://surbma.com/wordpress-plugins/"
+msgstr "http://surbma.hu/wordpress/wordpress-bovitmenyek/"
+
+#. translators: plugin header field 'Description'
+#: surbma-optimonk.php:0
+#@ surbma-optimonk
+msgid "OptiMonk for WordPress"
+msgstr "Optimonk integráció WordPress-hez"
+
+#. translators: plugin header field 'Author'
+#: surbma-optimonk.php:0
+#@ surbma-optimonk
+msgid "Surbma"
+msgstr "Surbma"
+
+#. translators: plugin header field 'AuthorURI'
+#: surbma-optimonk.php:0
+#@ surbma-optimonk
+msgid "http://surbma.com/"
+msgstr "http://surbma.hu/"
+
+#. translators: plugin header field 'Version'
+#: surbma-optimonk.php:0
+#@ surbma-optimonk
+msgid "1.0.1"
+msgstr ""
+
