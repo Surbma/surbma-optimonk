@@ -40,7 +40,7 @@ function surbma_optimonk_settings_init() {
 add_action( 'admin_init', 'surbma_optimonk_settings_init', 50 );
 
 function surbma_optimonk_settings_section_text() {
-	echo '<p><strong>' . __( 'Warning!', 'surbma-optimonk' ) . '</strong> ' . __( 'You only need to add the document ID! You can find it at the end of your integration code, in the document line.', 'surbma-optimonk' ) . '<br>' . __( 'Example', 'surbma-optimonk' ) . ': <code>})(document, \'1234\');</code> - ' . __( 'So you need only the ID 1234.', 'surbma-optimonk' ) . '</p>';
+	echo '<p><strong>' . __( 'Warning!', 'surbma-optimonk' ) . '</strong> ' . __( 'You only need to add the document ID! You can find it at the end of your integration code, in the document line.', 'surbma-optimonk' ) . '</p><p>' . __( 'Here is an example script from your OptiMonk admin dashboard page. You can see the highlighted part, this is the ID, that you need to add here on the field below.', 'surbma-optimonk' ) . '</p><img src="' . SURBMA_OPTIMONK_PLUGIN_URL . '/images/optimonk-script.jpg" alt="OptiMonk Script">';
 }
 
 function surbma_optimonk_id_string() {
