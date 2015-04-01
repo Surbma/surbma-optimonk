@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: optimonk, popup, pop up, exit intent, newsletter
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -58,6 +58,10 @@ The popup is showing only for non-logged-in users. If you want to test the OptiM
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.0.3 =
+
+- Fix localization.
 
 = 1.0.2 =
 

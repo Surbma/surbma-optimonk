@@ -5,7 +5,7 @@ Plugin Name: Surbma - OptiMonk
 Plugin URI: http://surbma.com/wordpress-plugins/
 Description: OptiMonk for WordPress
 
-Version: 1.0.2
+Version: 1.0.3
 
 Author: Surbma
 Author URI: http://surbma.com/
@@ -26,9 +26,9 @@ define( 'SURBMA_OPTIMONK_PLUGIN_URL', plugins_url( '', __FILE__ ) );
 
 // Localization
 function surbma_optimonk_init() {
-	load_plugin_textdomain( 'surbma-optimonk', false, dirname( plugin_basename( __FILE__ ) . '/languages' ) );
+	load_plugin_textdomain( 'surbma-optimonk', false, dirname( plugin_basename( __FILE__ ) . '/languages/' ) );
 }
-add_action( 'init', 'surbma_optimonk_init' );
+add_action( 'plugins_loaded', 'surbma_optimonk_init' );
 
 // Include files
 if ( is_admin() ) {
