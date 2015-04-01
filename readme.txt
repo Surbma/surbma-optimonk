@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: optimonk, popup, pop up, exit intent, newsletter
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,8 @@ For more information, please read the official OptiMonk description here: <a hre
 **Do you want to contribute or help improving this plugin?**
 
 You can find it on GitHub: <a href="https://github.com/Surbma/surbma-optimonk" target="_blank">https://github.com/Surbma/surbma-optimonk</a>
+
+---
 
 = Magyar leírás =
 
@@ -56,6 +58,8 @@ További információkért olvasd el a hivatalos OptiMonk leírásait: <a href="
 2. Activate the Surbma - OptiMonk plugin through the 'Plugins' menu in WordPress
 3. Go to Settings → OptiMonk Settings
 4. Add your document ID and save the settings
+
+= Magyar leírás =
 
 1. Töltsd fel a `surbma-optimonk` mappát a `/wp-content/plugins/` könyvtárba
 2. Aktiváld a Surbma - OptiMonk bővítményt a 'Bővítmények' menüpont alatt a WordPress admin felületén
@@ -89,6 +93,10 @@ The popup is showing only for non-logged-in users. If you want to test the OptiM
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.0.6 =
+
+- Changed description.
 
 = 1.0.5 =
 
