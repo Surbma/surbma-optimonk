@@ -5,7 +5,7 @@ Plugin Name: Surbma | OptiMonk
 Plugin URI: https://surbma.com/wordpress-plugins/
 Description: OptiMonk for WordPress
 
-Version: 2.0
+Version: 2.1
 
 Author: Surbma
 Author URI: https://surbma.com/
