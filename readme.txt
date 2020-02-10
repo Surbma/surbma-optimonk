@@ -1,10 +1,11 @@
-=== Surbma - OptiMonk ===
-Contributors: Surbma
-Donate link: http://surbma.com/
+=== Surbma | OptiMonk ===
+Contributors: Surbma, CherryPickStudios
+Donate link: https://surbma.com/donate/
 Tags: optimonk, popup, pop up, exit intent, newsletter
-Requires at least: 3.0
-Tested up to: 4.1
-Stable tag: 1.0.8
+Requires at least: 5.1
+Tested up to: 5.3
+Stable tag: 2.0
+Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,7 +19,7 @@ OptiMonk is a conversion optimization tool. OptiMonk is best for sites who have 
 
 OptiMonk has proved to provide great ROI to several industries:
 
-- Ecommerce 
+- Ecommerce
 - Publishers
 - Lead generation sites
 - Travel sites
@@ -53,14 +54,14 @@ További információkért olvasd el a hivatalos OptiMonk leírásait: <a href="
 == Installation ==
 
 1. Upload `surbma-optimonk` folder to the `/wp-content/plugins/` directory
-2. Activate the Surbma - OptiMonk plugin through the 'Plugins' menu in WordPress
+2. Activate the Surbma | OptiMonk plugin through the 'Plugins' menu in WordPress
 3. Go to Settings → OptiMonk Settings
 4. Add your document ID and save the settings
 
 = Magyar leírás =
 
 1. Töltsd fel a `surbma-optimonk` mappát a `/wp-content/plugins/` könyvtárba
-2. Aktiváld a Surbma - OptiMonk bővítményt a 'Bővítmények' menüpont alatt a WordPress admin felületén
+2. Aktiváld a Surbma | OptiMonk bővítményt a 'Bővítmények' menüpont alatt a WordPress admin felületén
 3. Kattints a Beállítások → OptiMonk beállítások menüpontra
 4. Add meg a document azonosítót és mentsd el a beállításokat
 
@@ -91,6 +92,13 @@ The popup is showing only for non-logged-in users. If you want to test the OptiM
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.0 =
+
+Release date: 2020-02-10
+
+- TWEAK - Tested with WordPress 5.3 version.
+- TWEAK - Updated to use a new way to deploy it to wp.org repo.
 
 = 1.0.8 =
 

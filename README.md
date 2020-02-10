@@ -1,4 +1,4 @@
-Surbma - OptiMonk
+Surbma | OptiMonk
 ===================
 
 OptiMonk for WordPress.

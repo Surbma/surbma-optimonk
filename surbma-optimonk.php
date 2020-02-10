@@ -1,14 +1,14 @@
 <?php
 
 /*
-Plugin Name: Surbma - OptiMonk
-Plugin URI: http://surbma.com/wordpress-plugins/
+Plugin Name: Surbma | OptiMonk
+Plugin URI: https://surbma.com/wordpress-plugins/
 Description: OptiMonk for WordPress
 
-Version: 1.0.8
+Version: 2.0
 
 Author: Surbma
-Author URI: http://surbma.com/
+Author URI: https://surbma.com/
 
 License: GPLv2
 
